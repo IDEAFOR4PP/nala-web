@@ -20,7 +20,6 @@ export default function Login() {
       <div className="fixed inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-gray-50 to-purple-50" />
         
-        {/* Nebulous Blue Blobs */}
         <div className="absolute top-1/4 -left-20 w-[500px] h-[500px] bg-cyan-200/40 rounded-full blur-[140px] animate-pulse" style={{ animationDelay: '0.3s' }} />
         <div className="absolute -bottom-32 right-1/4 w-[700px] h-[700px] bg-blue-200/35 rounded-full blur-[160px] animate-pulse" />
         <div className="absolute top-0 right-1/3 w-[400px] h-[400px] bg-purple-200/30 rounded-full blur-[120px] animate-pulse" style={{ animationDelay: '0.7s' }} />
