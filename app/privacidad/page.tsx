@@ -18,7 +18,7 @@ export default function Privacidad() {
       content: (
         <>
           <p className="mb-4">
-            En NALA IA, recopilamos y procesamos diferentes tipos de información para brindarte el mejor servicio de asistente de ventas con inteligencia artificial a través de WhatsApp.
+            En NALA, recopilamos y procesamos diferentes tipos de información para brindarte el mejor servicio de asistente de ventas con inteligencia artificial a través de WhatsApp.
           </p>
           
           <h3 className="text-lg font-semibold mb-3 mt-6">Información que proporcionas directamente:</h3>
